@@ -189,7 +189,7 @@ button:hover{
         font-size: 20px;
     }
 
-    .nav{
+    header > .nav{
         display: none !important;
     }
 
@@ -205,6 +205,10 @@ button:hover{
         display: block !important;
     }
 
+    footer > .nav{
+        padding-left: 0;
+        flex-wrap: wrap;
+    }
 
 }
 
