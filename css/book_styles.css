@@ -201,7 +201,7 @@ button:hover{
         display: block !important;
     }
 
-    .nav:hover {
+    header > .nav:hover {
         display: block !important;
     }
 
